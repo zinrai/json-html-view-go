@@ -28,4 +28,4 @@ Open your browser and navigate to http://localhost:8000 to view the rendered dat
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) for details.
+This project is licensed under the [MIT License](./LICENSE).
